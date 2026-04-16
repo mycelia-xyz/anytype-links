@@ -21,13 +21,13 @@
     </style>
     <script>
       window.location.href =
-        "anytype://object?objectId=bafyreihyba3tvs6fuved4mt2iprngxusrkx4x45cwp4bs6o6zfusrihff4&spaceId=bafyreifmcjyxdsjmcv7dlry2qonek4iptesmozvtf5ljolxnxdva3t65ia.1h4kyg9jfyzad&cid=bafybeibohig3afnzradiwy3wyl4ombmlmuegy7wiyxkhmuiykzq2o7ahwe&key=4smnhGFv8ninTGSD2M6DTkwTGpsEk9PEErfb1fhjLQio";
+        "anytype://object?objectId=bafyreie4wvknd74ok6277rgo6ooogvg4c62irgpbovz6xfku7iurjv5npe&spaceId=bafyreifmcjyxdsjmcv7dlry2qonek4iptesmozvtf5ljolxnxdva3t65ia.1h4kyg9jfyzad&cid=bafybeibohig3afnzradiwy3wyl4ombmlmuegy7wiyxkhmuiykzq2o7ahwe&key=4smnhGFv8ninTGSD2M6DTkwTGpsEk9PEErfb1fhjLQio";
     </script>
   </head>
   <body>
     <div class="box">
       <p>⏳ Redirection vers Anytype en cours…</p>
-      <p>Si rien ne se passe, <a href="anytype://object?objectId=bafyreihyba3tvs6fuved4mt2iprngxusrkx4x45cwp4bs6o6zfusrihff4&spaceId=bafyreifmcjyxdsjmcv7dlry2qonek4iptesmozvtf5ljolxnxdva3t65ia.1h4kyg9jfyzad&cid=bafybeibohig3afnzradiwy3wyl4ombmlmuegy7wiyxkhmuiykzq2o7ahwe&key=4smnhGFv8ninTGSD2M6DTkwTGpsEk9PEErfb1fhjLQio">cliquez ici</a>.</p>
+      <p>Si rien ne se passe, <a href="anytype://object?objectId=bafyreie4wvknd74ok6277rgo6ooogvg4c62irgpbovz6xfku7iurjv5npe&spaceId=bafyreifmcjyxdsjmcv7dlry2qonek4iptesmozvtf5ljolxnxdva3t65ia.1h4kyg9jfyzad&cid=bafybeibohig3afnzradiwy3wyl4ombmlmuegy7wiyxkhmuiykzq2o7ahwe&key=4smnhGFv8ninTGSD2M6DTkwTGpsEk9PEErfb1fhjLQio">cliquez ici</a>.</p>
     </div>
   </body>
 </html>
