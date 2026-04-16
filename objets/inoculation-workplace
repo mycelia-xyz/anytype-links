@@ -1,1 +1,33 @@
-
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ouverture dans Anytype…</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+        background: #f5f5f5;
+        color: #333;
+        text-align: center;
+      }
+      .box { max-width: 420px; padding: 2rem; }
+      a { color: #01696f; font-weight: bold; }
+    </style>
+    <script>
+      window.location.href =
+        "anytype://object?objectId=bafyreihyba3tvs6fuved4mt2iprngxusrkx4x45cwp4bs6o6zfusrihff4&spaceId=bafyreifmcjyxdsjmcv7dlry2qonek4iptesmozvtf5ljolxnxdva3t65ia.1h4kyg9jfyzad&cid=bafybeibohig3afnzradiwy3wyl4ombmlmuegy7wiyxkhmuiykzq2o7ahwe&key=4smnhGFv8ninTGSD2M6DTkwTGpsEk9PEErfb1fhjLQio";
+    </script>
+  </head>
+  <body>
+    <div class="box">
+      <p>⏳ Redirection vers Anytype en cours…</p>
+      <p>Si rien ne se passe, <a href="anytype://object?objectId=bafyreihyba3tvs6fuved4mt2iprngxusrkx4x45cwp4bs6o6zfusrihff4&spaceId=bafyreifmcjyxdsjmcv7dlry2qonek4iptesmozvtf5ljolxnxdva3t65ia.1h4kyg9jfyzad&cid=bafybeibohig3afnzradiwy3wyl4ombmlmuegy7wiyxkhmuiykzq2o7ahwe&key=4smnhGFv8ninTGSD2M6DTkwTGpsEk9PEErfb1fhjLQio">cliquez ici</a>.</p>
+    </div>
+  </body>
+</html>
